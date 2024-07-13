@@ -11,7 +11,10 @@ const config: Config = {
       container: {
         padding: '1rem', 
         center: true,
-      }
+      },
+      backgroundImage: {
+        'gradient-custom': 'linear-gradient(to right, #ea9cf0, #29D8FF, #81e468, #F89ABF, #ff9147)',
+      },
     },
   },
   plugins: [],
